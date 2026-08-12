@@ -57,7 +57,7 @@ class Adarsh:
 <img src="https://github-readme-stats.vercel.app/api?username=Adarsh132&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00F5D4&icon_color=8A2BE2&text_color=ffffff" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh132&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00F5D4&text_color=ffffff" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh132&theme=radical&hide_border=true&background=0f0c29&stroke=00F5D4&ring=8A2BE2&fire=8A2BE2" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=Adarsh132&theme=radical&hide_border=true&background=0f0c29&stroke=00F5D4&ring=8A2BE2&fire=8A2BE2" width="60%"/>
 
 </div>
 
